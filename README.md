@@ -21,6 +21,9 @@ As a team, we are predicting an auto loan default classifier with 1 as default a
 - KNN
 
 ### Files Desriptions 
+[All databases are stoed here](https://drive.google.com/open?id=1WeL4loAYrBD8OaOKJ4L6bxkDVpI9DRYK)
+
+
 - *autodrive20171_database.csv*: Santander (subprime auto) DB scraped and aggregated for ML purposes.
 - *database_gmal1801.csv*: General Motor (prime auto) DB scraped and aggregated for ML purposes.
 - *cti_ml_final.ipynb*: Python code in Jupyter environment used to run classification prediction for all 6 models mentioned above. 
